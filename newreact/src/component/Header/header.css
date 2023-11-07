@@ -1,0 +1,28 @@
+.header{
+
+    height: 80px;
+    background-color: #1C2B35;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 100px;
+    padding-right: 100px;
+   
+}
+.t a{
+
+
+    text-decoration: none;
+    margin-left: 2.5rem;
+    color: white;
+    font-weight: 500px;
+    
+    
+}
+a:hover{
+
+    background-color: #1C2B35;
+    color: rgb(74, 226, 9);
+    transition: 0.6s;
+    transform: rotateX('deg');
+}
